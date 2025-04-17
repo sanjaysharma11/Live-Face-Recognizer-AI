@@ -1,4 +1,4 @@
-![AIML SCREENSHOT](https://github.com/user-attachments/assets/bac60518-fc65-467e-bc29-1e79a3bea54e)# 🎯 Live-Face-Recognizer-AI
+## 🎯 Live-Face-Recognizer-AI
 
 A real-time face recognition system using Python, OpenCV, and the `face_recognition` library, built on top of Dlib’s deep learning model. This AI/ML-based tool captures frames from your webcam, identifies known faces from a training set, and displays recognized names live on screen.
 
